@@ -1,0 +1,95 @@
+body { background: #355C7D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.login {
+    width: 400px;
+    background: #9565b6;
+    padding: 50px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(255, 255, 255);
+    box-shadow: 7px 13px 37px rgb(136, 125, 125); 
+}
+
+.regristro h4 {
+    font-size: 22px;
+    margin-bottom: 37px;
+}
+
+
+.box {
+    width: 100%;
+    background: #501977;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #fff;
+    color: white;
+}
+
+.fecha {
+    color: white;
+    position: relative;
+    width: 100px;
+    height: 20px;
+    margin: auto;
+    margin-top: 5px;
+    border: 1px solid #ad0776;
+    background: linear-gradient(15deg, #03b854, #cd1fad);
+
+}
+
+
+.regristro p {
+    padding: 10px;
+    height: 10px;
+    font-size: 14px;
+
+}
+
+.regristro a {
+    color: rgb(196, 21, 21);
+    text-decoration: none;
+}
+
+
+.regristro a:hover {
+    color: rgb(0, 238, 255);
+}
+
+.boton {
+    width: 105%;
+    background-color: #4d1277;
+    border: none;
+    padding: 10px;
+    border-radius: 1rem;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
